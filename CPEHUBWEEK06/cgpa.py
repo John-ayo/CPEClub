@@ -17,7 +17,6 @@ def save_to_file(gpa, courses):
         # Adjusted column spacing to fit course names nicely
         f.write(f"{'Course':<15} {'Credit Unit':<15} {'Grade':<10} {'Quality Points'}\n")
         f.write("-" * 55 + "\n")
-        # We now unpack 4 items: name, credit, grade, and qp
         for name, credit, grade, qp in courses:
             f.write(f"{name:<15} {credit:<15} {grade:<10} {qp}\n")
         f.write("-" * 55 + "\n")
