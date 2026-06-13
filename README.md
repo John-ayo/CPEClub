@@ -17,7 +17,12 @@ C and Python programs built as part of the CPE Club's hands-on programming sessi
 | Week 4 | Dynamic Multiplication Grid | C | Generates a perfectly aligned n x n multiplication table |
 | Week 4 | Student Information Management System | C | Full CRUD student records system with file I/O |
 | Week 5 | Number Guessing Game | Python | Terminal guessing game with attempt tracking |
+<<<<<<< HEAD
 | Week 7 | Command Line Expense Tracker | Python | Track expenses using lists, functions, and list comprehensions |
+=======
+| Week 6 | CGPA Calculator| Python | CGPA Terminal calculator with saving function |
+
+>>>>>>> 9f71c3011448a0e7577f2405b064e268b1f49cb6
 ---
 
 ## What you will need
