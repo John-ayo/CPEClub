@@ -1,0 +1,9 @@
+[
+  {
+    "account_number": "8101738608",
+    "account_holder": "Johnpaul",
+    "balance": 20000.0,
+    "account_type": "Current",
+    "overdraft_limit": 5000
+  }
+]
